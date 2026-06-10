@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://coinmerce.io/assets/images/coinmerce-logo.png" 
+  <img src="https://platform.coinmerce.io/assets/images/coinmerce-logo.png" 
 height="25"/>
 </p>
 
